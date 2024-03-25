@@ -6,6 +6,7 @@ It provides a simple interface for users to input sentences and receive sentimen
 -NLTK library
 
 *Installation*
+
 1- Clone the repository to your local machine:
 git clone https://github.com/enesoncu/sentiment-analysis.git
 
