@@ -1,4 +1,4 @@
-# Sentiment Analysis with NLTK and VADER-
+# Sentiment Analysis with NLTK and VADER
 
 This Python project performs sentiment analysis on input sentences using the NLTK library with VADER (Valence Aware Dictionary and Sentiment Reasoner). 
 It provides a simple interface for users to input sentences and receive sentiment analysis results.
